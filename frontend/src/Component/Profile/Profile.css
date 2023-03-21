@@ -1,0 +1,29 @@
+.picture{
+    border-radius: 50%;
+    position: relative;
+}
+
+
+.camera-upload-label {
+    color: #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+    position: absolute;
+    bottom: 0;
+    left: 6.5rem;
+    
+  }
+  .camera-upload-input {
+    display: none;
+  }
+
+  .profile{
+    display: flex;
+    flex-direction: column;
+  }
+  .inputtag{
+    background-color: #fff;
+    width: 300px;
+    text-align: center;
+
+  }
